@@ -426,7 +426,7 @@ nav button:hover::before {
 .contact {
     height: 30vh;
     width: 100vw;
-    background-image: url("/assets/img/building-banner.jpg");
+    background-image: url("../img/building-banner.jpg");
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
